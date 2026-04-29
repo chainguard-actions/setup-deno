@@ -1,6 +1,12 @@
 # denoland/setup-deno
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/denoland/setup-deno](https://github.com/denoland/setup-deno).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.0.3 | [`v2.0.3`](https://github.com/chainguard-actions/setup-deno/tree/v2.0.3) | — |
 
 ## Privacy
 
