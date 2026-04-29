@@ -1,5 +1,6 @@
 {
   "owner": "denoland",
   "name": "setup-deno",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "Set up your GitHub Actions workflow with a specific version of Deno"
 }
