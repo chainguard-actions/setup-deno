@@ -1,4 +1,6 @@
 {
-  "upstream": "denoland/setup-deno",
-  "version": "v2.0.3"
+  "owner": "denoland",
+  "repo": "setup-deno",
+  "version": "",
+  "url": "https://github.com/denoland/setup-deno"
 }
