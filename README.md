@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v2.0.3 | [`v2.0.3`](https://github.com/chainguard-actions/setup-deno/tree/v2.0.3) | — |
+| v2.0.3 | [`v2.0.3`](https://github.com/chainguard-actions/denoland--setup-deno/tree/v2.0.3) | — |
 
 ## Privacy
 
